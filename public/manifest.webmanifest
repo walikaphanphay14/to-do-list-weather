@@ -1,0 +1,9 @@
+{
+  "name": "Task Manager + Weather",
+  "short_name": "Tasks",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F0E5",
+  "theme_color": "#DAC0A3",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
